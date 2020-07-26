@@ -1,0 +1,22 @@
+{
+  "name": "you-speak-with-spaces",
+  "version": "1.0.0",
+  "description": "你 说 话 还 带 空 格",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyfcka/you-speak-with-spaces.git"
+  },
+  "author": "shyfcka",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shyfcka/you-speak-with-spaces/issues"
+  },
+  "homepage": "https://github.com/shyfcka/you-speak-with-spaces#readme",
+  "dependencies": {
+    "@types/node": "^14.0.26"
+  }
+}
